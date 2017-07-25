@@ -1,0 +1,16 @@
+Questions I want answer:
+
+1. Are blacks underpresented in startup (sliced by race)
+2. Given that they have a startup, do blacks have less education?
+3. Do blacks do worse compared to female?
+4. What about black female then?
+
+
+What are these fiels:
+1. OppShare_New_Entrp: the percentage of adults becoming entrepreneurs, firven by opporunity as opposed to necessaity
+2. Rate_New_Entrp: the rate of new entrepreneurs, calculated as percentage of adults becoming entrepreneurs in a given month
+3. startup_density: the rate at which businessness with employes are created in the economy
+4. Composition_of_New_Entrp	
+
+
+My questions to investigate:
